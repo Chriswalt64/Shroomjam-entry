@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-image_speed = 0;
-image_index = 19;
+
+//TODO: Remove this before submission
+game_restart();
