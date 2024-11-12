@@ -8,8 +8,8 @@
   "name":"obj_skelly",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Player, enemines, NPCs",
+    "path":"folders/Objects/Player, enemines, NPCs.yy",
   },
   "parentObjectId":null,
   "persistent":false,

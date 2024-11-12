@@ -79,8 +79,8 @@
   },
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Intro",
+    "path":"folders/Sprites/Intro.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
